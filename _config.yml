@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Gamerland: Source
+name: "Gamerland: Source"
 
 # Short bio or description (displayed in the header)
-description: The Official Gamerland: Source Website
+description: "The Official Gamerland: Source Website"
 
 #
 # Flags below are optional
@@ -23,7 +23,7 @@ navigation:
   - name: Blog
     url: /
   - name: About
-    url: /about.md
+    url: /about
   - name: Archive
     url: /archive
   - name: Tags
