@@ -8,4 +8,4 @@ comments: true
 
 If you want to join, go to this link: https://discord.gg/HPVVfXB
 <br>
-There will also be a link in a discussion that is on the main page of the group <img src="https://steamcommunity-a.akamaihd.net/economy/emoticon/D" width="18" height="18" alt=":D">
+There will also be a link in a discussion that is on the main page of the group <img class="emoji" src="https://steamcommunity-a.akamaihd.net/economy/emoticon/D" width="18" height="18" alt=":D">
