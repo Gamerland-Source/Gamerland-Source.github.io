@@ -22,6 +22,8 @@ body {
   font-family: $base-font;
   color: $body-color;
   line-height: 1.6;
+  background: url('checker.png') fixed !important;
+  background-image:url('checker.png') !important;
 }
 
 .container {
