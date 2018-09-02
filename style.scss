@@ -22,7 +22,7 @@ body {
   font-family: $base-font;
   color: $body-color;
   line-height: 1.6;
-  background: url('assets/images/checker.png') fixed !important;
+  background: $yellowish, url('assets/images/checker.png') fixed !important;
   background-image:url('assets/images/checker.png') !important;
 }
 
@@ -31,6 +31,10 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
+  background-color: #ECF2FF;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
 }
 
 h1, h2, h3, h4, h5, h6 {
