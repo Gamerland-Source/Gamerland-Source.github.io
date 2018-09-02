@@ -1,9 +1,8 @@
 ---
 layout: page
-title: 
+title: "About us"
 permalink: /about/
 ---
-## About us
 
 Gamerland: Source is a unique Team Fortress 2 gaming community that has gone through a lot of changes in the past few years. However, despite this, we are here to stay for as long as this cruel, technological world will let us.
 
