@@ -22,7 +22,7 @@ body {
   font-family: $base-font;
   color: $body-color;
   line-height: 1.6;
-  background: $yellowish, url('assets/images/checker.png') fixed !important;
+  background: $yellowish url('assets/images/checker.png') fixed !important;
   background-image:url('assets/images/checker.png') !important;
 }
 
